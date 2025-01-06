@@ -1,2 +1,1 @@
-# LobbyCore
-🌴 Easy Lobby-Core for pmmp.
+# 🌴 Easy Lobby 🌟
