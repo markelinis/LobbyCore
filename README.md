@@ -2,4 +2,4 @@
 
 [img]
 
-LobbyCore echo el 11/01/2025 por @markeinis
+LobbyCore creado el 11/01/2025 por @markeinis
